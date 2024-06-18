@@ -6,4 +6,4 @@
 
 ![headjack](https://github.com/h34dj4ck/h34dj4ck/assets/173120991/a0aa41f3-e816-4b3b-abda-d2f34cd79d64)
 
-I am interested in privacy and decentralized applications. I am learning to build on Solana and TON.
+Call me Headjack, or just Jack. I am interested in privacy and decentralized applications. I am learning to build on Solana and TON.
